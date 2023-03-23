@@ -1,8 +1,9 @@
-<h1 align="center">Hi there <img src="./assets/wave.gif" width="30px">, I am Pratik Karad!</h1>
+<h1 align="center">Hi there <img src="./assets/wave.gif" width="30px">, I'm Pratik Karad</h1>
 <div align='center'>
 
 ### My Tech Stack
-<p> 
+
+<p>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000&labelColor=%F7DF1E&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -27,6 +28,7 @@
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+
 </p>
 </div>
 <tr>
@@ -34,15 +36,19 @@
 <br/>
 
 | <a href="https://github.com/pratikkarad/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pratikkarad&show_icons=true&include_all_commits=true&theme=prussian&hide_border=true" alt="pratikkarad's github stats" /> | <a href="https://github.com/pratikkarad/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikkarad&layout=compact&theme=prussian&hide_border=true" /></a> |
-| ------------- | ------------- |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <br />
 
 ### 📫 How to reach me:
+
 <br />
 <a href="https://www.linkedin.com/in/pratikkarad/"><img src="https://img.shields.io/badge/Follow @pratikarad-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> | 
 <a href="https://www.linkedin.com/in/pratikkarad/"><img src="https://img.shields.io/twitter/follow/pratiksometimes?style=social" alt="Twitter"></a> | 
 <a href="https://www.youtube.com/channel/UCuekmxrxA7fAMYJJfRph03w"><img src="https://img.shields.io/youtube/channel/subscribers/UCuekmxrxA7fAMYJJfRph03w?style=social" alt="Youtube"></a>
+</div>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=pratikkarad&style=flat-square&color=blue" alt="Profile counter badge" />
 </div>
 <!--
 **pratikkarad/pratikkarad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -57,6 +63,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
 
 <!-- Get icons on https://ileriayo.github.io/markdown-badges/ -->
