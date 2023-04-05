@@ -50,8 +50,9 @@
 
 <br />
 <a href="https://www.linkedin.com/in/pratikkarad/"><img src="https://img.shields.io/badge/Follow @pratikarad-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> | 
-<a href="https://www.linkedin.com/in/pratikkarad/"><img src="https://img.shields.io/twitter/follow/pratiksometimes?style=social" alt="Twitter"></a> | 
-<a href="https://www.youtube.com/channel/UCuekmxrxA7fAMYJJfRph03w"><img src="https://img.shields.io/youtube/channel/subscribers/UCuekmxrxA7fAMYJJfRph03w?style=social" alt="Youtube"></a>
+<a href="https://twitter.com/intent/follow?screen_name=pratiksometimes"><img src="https://img.shields.io/twitter/follow/pratiksometimes?style=social" alt="Twitter"></a> | 
+<a href="https://stackoverflow.com/users/6555454/pratikkarad"><img src="https://img.shields.io/stackexchange/stackoverflow/r/6555454?style=social" alt="Stackoverflow"></a> | 
+<a href="https://www.youtube.com/@betterpercy"><img src="https://img.shields.io/youtube/channel/subscribers/UCuekmxrxA7fAMYJJfRph03w?style=social" alt="Youtube"></a>
 </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=pratikkarad&style=flat-square&color=blue" alt="Profile counter badge" />
